@@ -1,4 +1,4 @@
-var url_base = "http://wwwp.cs.unc.edu/Courses/comp426-f16/kmp/lec22/server-side";
+var url_base = "file:///Users/katherinenuccio/Documents/College/Senior/Fall%20Semester/COMP%20426/project/collegeMatcher/client-side/TodoViewer.html?title=dsfsdf&note=kdjf&project=kdjfs&due_date=dkfjs%3Bdfsd&priority=dfsdfs";
 
 $(document).ready(function () {
 
